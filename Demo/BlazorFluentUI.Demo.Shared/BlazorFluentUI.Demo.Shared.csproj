@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="DynamicData" Version="8.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.0-rc.2.23480.2" />
-    <PackageReference Include="System.Reactive" Version="6.0.0" />
+    <PackageReference Include="System.Reactive" Version="6.0.1-preview.1" />
   </ItemGroup>
 
   <ItemGroup>

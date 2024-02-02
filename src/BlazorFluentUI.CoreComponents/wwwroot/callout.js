@@ -85,7 +85,7 @@ export function getWindow(element) {
 }
 export function getWindowRect() {
     var rect = {
-        width: window.innerWidth,
+        width: window.innerWidth, // - scrollbarwidth
         height: window.innerHeight,
         top: 0,
         left: 0
